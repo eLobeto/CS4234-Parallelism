@@ -1,0 +1,6 @@
+This is an example input
+ to my OpenMP program. It is
+ so super duper awesome
+and I wish I 
+could code more stuff in
+ OpenMP because it so wonderfully easy.
